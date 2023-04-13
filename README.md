@@ -3,8 +3,11 @@ powerball california lottery win or lose simulator to help you jackpot
 # Powerball Game
 
 This Python program simulates playing the Powerball lottery. Users can choose to either manually select their numbers or have the program generate random numbers using the Quick Pick option.
-install by cloning the github repo with $ git clone
-cd powerball 
+install by cloning the github repo with $ git clone https://github.com/CodingCosmic/powerball
+
+
+
+ cd powerball 
 run script with python powerball.py
 
 ## How to Play
